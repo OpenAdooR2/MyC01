@@ -20,6 +20,7 @@ int main (){
     printf("----------------------------------------\n");
     printf("money share : %.2lf baht\n",money_share);
     printf("----------------------------------------\n");
+
     
     return 0;
 
